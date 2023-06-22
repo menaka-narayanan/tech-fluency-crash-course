@@ -27,11 +27,12 @@ Video Conferencing on Mobile
 
 ## Functionality
 This repository contains a basic Twilio integration that allow for the following type of daily practice, as demonstrated by the following screenshots:
-![IMG_4032](https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/db610e78-a8d9-4401-8066-f35a2949a588)
-![IMG_4033](https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/93f4b52f-3f48-4966-bcdd-82a340d97959)
-![IMG_4034](https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/31888649-6b16-4445-ac8a-308a44e49567)
-![IMG_4035](https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/92b4483e-8fbc-4756-9480-21fb1a621988)
-![IMG_4036](https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/36ec0381-5946-4bb4-8020-da0f4995a635)
-![IMG_4037](https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/3029ccb2-c7c4-4704-9ec9-318af72437de)
+<img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/db610e78-a8d9-4401-8066-f35a2949a588" width="250">
+<img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/93f4b52f-3f48-4966-bcdd-82a340d97959" width="250">
+<img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/93f4b52f-3f48-4966-bcdd-82a340d97959" width="250">
+<img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/31888649-6b16-4445-ac8a-308a44e49567" width="250">
+<img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/92b4483e-8fbc-4756-9480-21fb1a621988" width="250">
+<img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/36ec0381-5946-4bb4-8020-da0f4995a635" width="250">
+<img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/3029ccb2-c7c4-4704-9ec9-318af72437de" width="250">
 
 
