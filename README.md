@@ -27,6 +27,7 @@ Video Conferencing on Mobile
 
 ## Functionality
 This repository contains a basic Twilio integration that allow for the following type of daily practice, as demonstrated by the following screenshots:
+
 <img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/db610e78-a8d9-4401-8066-f35a2949a588" width="250">
 <img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/93f4b52f-3f48-4966-bcdd-82a340d97959" width="250">
 <img src="https://github.com/menaka-narayanan/tech-fluency-crash-course/assets/22685566/93f4b52f-3f48-4966-bcdd-82a340d97959" width="250">
